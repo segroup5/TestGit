@@ -13,7 +13,7 @@ public class TestGit {
 
 	private static void printLYM() {
 		// TODO Auto-generated method stub
-		
+		System.out.println("lym");
 	}
 
 }
