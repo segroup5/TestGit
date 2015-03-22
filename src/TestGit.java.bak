@@ -8,7 +8,7 @@ public class TestGit {
 
 	private static void printFJT() {
 		// TODO Auto-generated method stub
-		System.out.println("fjt");
+		System.out.println();
 	}
 
 	private static void printLYM() {
